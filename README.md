@@ -1,7 +1,14 @@
 # CSP-MED-Thermal-Storage-
-The project involves the comprehensive dynamic and thermodynamic modeling of an 8-Effect Forward Feed Multi-Effect Distillation (MED) plant integrated with a Parabolic Trough Solar Collector (PTSC) field and a 50,000 \text{ kWh} Thermal Energy Storage (TES) unit. The system was engineered to deliver a stable thermal demand of \mathbf{3.01 \text{ MW}} for desalination.  The model's validation demonstrated extremely high fidelity, achieving less than a 1.2\% error across all primary design metrics (GOR, Thermal Load, and Specific Area) compared to established literature benchmarks. 
-The subsequent dynamic simulation successfully optimized the system's operation, proving that the 50,000 \text{ kWh} TES unit is capable of extending the plant's operational time from approximately 12 hours of peak sunlight to 15.6 \text{ hours} per day, resulting in a maximized stable daily distillate production of \mathbf{84,317.17 \text{ kg/day}}. This confirms the feasibility of using thermal storage to ensure high productivity and resource utilization in large-scale renewable desalination projects.
 
+·  Developed a dynamic-thermodynamic model for an 8-Effect Forward Feed MED plant integrated with a Parabolic Trough Solar Collector (PTSC) field and a 50,000 kWh Thermal Energy Storage (TES) unit.
+
+·  Engineered to deliver a stable thermal desalination demand of 3.01 MW.
+
+·  Achieved high fidelity with less than 1.2% error across all primary performance metrics (GOR, Thermal Load, Specific Area).
+
+ The TES unit extends daily plant operation from 12 hours to 15.6 hours, maximizing stable distillate production to 84,317.17 kg/day.
+
+·  Thermal storage is a feasible and effective solution for ensuring high productivity and resource utilization in large-scale renewable desalination projects.
 
 
 Figures:
