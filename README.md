@@ -14,6 +14,15 @@ Thermodynamic and Sizing Parameters across 8 Evaporator Effects:
 (https://ibb.co/d0QJ0dhZ)
 (https://ibb.co/qYmnXqwx)
 (https://ibb.co/F4jyC4sZ)
+Thermodynamic Validation: 8-Effect MED Core Accuracy:
+(https://ibb.co/BKHptXQM)
+Dynamic Operational Validation: 24-Hour Energy Management:
+(https://ibb.co/RpqxHWTv)
+Validation: PTSC Outlet Temperature vs. Direct Normal Irradiance (DNI): 
+(https://ibb.co/Ps7mRP6z)
+Operational Performance: Useful Heat Gain (Q_useful) Curve
+(https://ibb.co/XTv82JG)
+
 
 
 
